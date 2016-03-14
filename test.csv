@@ -1,0 +1,105 @@
+id,type,Statecode,city,value
+15
+#
+32984389,Phone,AL,Adamsville city,1345420059
+2213333,Computer,AL,Addison town,2195306406
+3213333,Clothes,AL,Akron town,1096754053
+32123214,Cleaner,AL,Alabaster city,3862107544
+#
+20213933,Fumiture,ID,Fernan Lake Village city,4236654253
+1133244,Flesh,ID,Filer city,2113527590
+21321341,Seafood,ID,Firth city,1112410994
+32124142,Snack,ID,Fort Hall CDP,1985334621
+21421122,Electronic,ID,Franklin city,1618688689
+21421414,Education,ID,Fruitland city,3666887687
+21431241,Phone,ID,Garden City city,3778727502
+12421444,Computer,ID,Genesee city,2707148764
+21321414,Clothes,ID,Georgetown city,629361931
+#
+21432453,Car,AR,Fairfield Bay city,4249312755
+21321444,Wine,AR,Fargo town,373702644
+244532,Travle,AR,Farmington city,1975307322
+12443435,tool,AR,Fayetteville city,3204120320
+2143243,medical,AR,Felsenthal town,1908646308
+12321444,Watch,AR,Fifty-Six city,1927558209
+#
+192833,Travle,HI,Kihei CDP,604488354
+19293283,tool,HI,Kilauea CDP,3125967179
+21929233,medical,HI,Koloa CDP,1625836196
+2383274,Watch,HI,Kualapuu CDP,3048323948
+12938323,Healthy,HI,Kukuihaele CDP,1397178671
+#
+19384844,Snack,AR,Reader town,4234749402
+1394384,Electronic,AR,Rector city,2261742461
+13939444,Education,AR,Redfield city,644808178
+1209394,Phone,AR,Reed town,2687375476
+4958584,Computer,AR,Reyno town,3041331655
+#
+10928383,Snack,CA,Niland CDP,4094164749
+19383445,Electronic,CA,Nipomo CDP,3663730363
+1092933,Education,CA,Norco city,141693639
+1029393,Phone,CA,North Auburn CDP,978009816
+#
+1029383,Wine,IA,Shelby city,2207962174
+10283843,Travle,IA,Sheldahl city,4145142182
+10238384,tool,IA,Sheldon city,2649314445
+1293838,medical,IA,Shell Rock city,835991629
+12939384,Watch,IA,Shellsburg city,3159046878
+#
+10928283,Wine,KS,Potwin city,284271974
+19283283,Travle,KS,Powhattan city,2111751103
+19283283,tool,KS,Prairie View city,112587838
+19292999,medical,KS,Prairie Village city,3946751436
+10292983,Watch,KS,Pratt city,811007674
+13029838,Healthy,KS,Prescott city,2827973344
+#
+10292983,Watch,FL,Ensley CDP,4232427849
+19828332,Healthy,FL,Estates of Fort Lauderdale CDP,4133307881
+18202832,Sport,FL,Estero CDP,2812018076
+13029398,Baby,FL,Esto town,2183624974
+14029838,office,FL,Eustis city,4065290634
+19283834,Fumiture,FL,Everglades city,1928263866
+12339484,Flesh,FL,Fairview Shores CDP,2256852579
+19293833,Seafood,FL,Fanning Springs city,1759054067
+#
+10928328,Electronic,KS,Johnson City city,985217002
+12873634,Education,KS,Junction City city,1925131386
+10293833,Phone,KS,Kanopolis city,496770802
+10982837,Computer,KS,Kanorado city,1352623654
+10387472,Clothes,KS,Kansas City city,3903600722
+19238384,Cleaner,KS,Kechi city,978787632
+18273730,Car,KS,Kensington city,540484199
+#
+10282823,Computer,GA,Snellville city,2812022251
+10283283,Clothes,GA,Social Circle city,1047690336
+10293838,Cleaner,GA,Soperton city,884688532
+10293838,Car,GA,Sparks town,112428965
+19283283,Wine,GA,Sparta city,1125216312
+10293832,Travle,GA,Springfield city,3976757033
+#
+18273732,Car,CA,North Woodbridge CDP,1913933832
+10982872,Wine,CA,Norwalk city,245783968
+10828737,Travle,CA,Novato city,2846923079
+10827373,tool,CA,Nuevo CDP,723463233
+10283832,medical,CA,Oakdale city,2306400169
+10992828,Watch,CA,Oakhurst CDP,1066021261
+#
+17263632,Cleaner,CO,Wray city,1890461988
+16028287,Car,CO,Yampa town,902114763
+15029328,Wine,CO,Yuma city,1708652721
+17028238,Travle,CT,Ansonia city,2249127965
+10726332,tool,CT,Bantam borough,2492349619
+#
+10273636,Car,CT,Woodbury Center CDP,3719003301
+10283764,Wine,CT,Woodmont borough,3687629002
+10283873,Travle,DE,Arden village,549843272
+10828737,tool,DE,Ardencroft village,3015083338
+10763534,medical,DE,Ardentown village,2658654583
+10625373,Watch,DE,Bear CDP,3393481897
+#
+10287363,Baby,MA,Littleton Common CDP,1899467590
+10384772,office,MA,Longmeadow CDP,703916098
+10498283,Fumiture,MA,Lowell city,776579319
+10528873,Flesh,AL,Abbeville city,851068068
+10682723,Seafood,AL,Adamsville city,2431541940
+##
