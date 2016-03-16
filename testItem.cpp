@@ -612,10 +612,15 @@ void Sample::bit_topk(int k)
 
 
 	TopVec.clear();
-	cout<< TopRes.size() <<endl;
+	//cout<< TopRes.size() <<"  "<<k<<endl;
+	/*for(i= 0;i<k;i++){
+		cout<<TopRes[i]<<endl;
+	}
+	*/
 	for(i=0;i<k;++i){
 		pos = TopRes[i];
-		for(j = 0;j < 32;++i)
+		cout<< i <<" "<<pos<<endl;
+		for(j = 0;j < 32;++j)
 			b[31-j] = bitslides[j][pos];
 		TopVec.push_back(b.to_ulong());
 	}
