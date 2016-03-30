@@ -120,7 +120,7 @@ class Sample
 public:
   Sample(string);
   void show();
-	void GeneBit();
+  void GeneBit();
   void query();
   void select();
   void sum();

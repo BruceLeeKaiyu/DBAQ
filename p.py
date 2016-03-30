@@ -4,8 +4,33 @@ import math
 import random
 import numpy as np
 import matplotlib.pyplot as plt
+import scipy as sp
 
 DIVIDE = 10
+
+class DataPart(object):
+
+	def __init__(self , List):
+		self.List = List
+		self.Len = len(List)
+
+	def __getDistance__(self, point, polyPara):
+		t = len(polyPara)
+		res = 0
+		time = 1
+		for i in range(t):
+			res = res + time *polyPara[-1]
+			time = time * p[0]
+
+		return abs(p[1] - res)	
+
+	def __polyfit__(self,L):
+		self.List.sort()
+		x_degree = range(1,(Len+1))
+		p = np.polyfit(x_degree,L,3)
+		return p
+
+	def __GetList__(self):
 
 class DataSlice(object):
 
@@ -19,22 +44,6 @@ class DataSlice(object):
 		self.threshold = threshold
 		self.size = size
 
-	def __getDistance__(self, p, polyPara):
-		t = len(polyPara)
-		res = 0
-		time = 1
-		for i in range(t):
-			res = res + time *polyPara[-1]
-			time = time * p[0]
-
-		return abs(p[1] - res)
-
-	def __polyfit__(self,L):
-		#self.DataList.sort()
-		Len = len(L)
-		x_degree = range(1,(Len+1))
-		p = np.polyfit(x_degree,L,3)
-		return p
 
 	def __GeneOrder__(self):
 		self.DataList.sort()
